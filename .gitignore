@@ -1,0 +1,17 @@
+# ignore asset / cache folders
+/assets/
+/silverstripe-cache/
+
+# ignore all environment files
+_ss_environment.php
+
+# ignore composer dependencies
+/cms/
+/crontask/
+/framework/
+/reports/
+/silverstripe-dynamodb/
+/siteconfig/
+/ssp-core/
+/themes/simple/
+/vendor/
