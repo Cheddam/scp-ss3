@@ -17,6 +17,12 @@
     "config": {
         "process-timeout": 600
     },
+    "scripts": {
+        "dummy": [
+            "echo dummy",
+            "echo script"
+        ]
+    },
     "prefer-stable": true,
     "minimum-stability": "dev"
 }
