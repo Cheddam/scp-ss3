@@ -51,7 +51,7 @@
         "process-timeout": 600
     },
     "scripts": {
-        "dummy": "echo dummy"
+        "dummy": "echo dummy",
         "cloud-build": "echo cloudBUILT"
     },
     "prefer-stable": true,
