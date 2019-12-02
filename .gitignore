@@ -1,6 +1,7 @@
-/public/assets/
-/silverstripe-cache/
 /.env
-/vendor/
-/themes/simple/
+/node_modules/
+/public/assets/
 /public/resources/
+/silverstripe-cache/
+/themes/simply/dist/
+/vendor/
